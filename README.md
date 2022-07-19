@@ -1,4 +1,6 @@
-# EQUIP Quantera
+ ![logo-basic.png](logo-basic.png)
+ 
+ # EQUIP Quantera
 
 ## Instructions below -- test
 
