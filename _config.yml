@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [EQUIP: Error Correction for Quantum Information Processing]
-# description: [A short description of your site's purpose]
+title: [EQUIP - Error Correction for Quantum Information Processing]
+description: [QuantERA, Quantum Phenomena and Resources, Start date - June 2022, Duration - 36 months]
