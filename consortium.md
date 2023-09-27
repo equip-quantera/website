@@ -26,3 +26,4 @@
 - Dimiter Ostrev, postdoctoral researcher, DLR-KN, Germany
 - Laura Rodríguez Soriano, PhD student, Universidad Politécnica de Valencia, Spain
 - Arshpreet Singh Maan, PhD student, Aalto University, Finland
+- Handy Kurniawan, PhD student, Universidad Complutense de Madrid, Spain
