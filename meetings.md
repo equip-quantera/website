@@ -14,6 +14,7 @@
 
 **Recommended Hotels**: 
 * Aalto Inn, [https://unihome.fi/en/properties/aalto-inn](https://unihome.fi/en/properties/aalto-inn)
+* Radisson Blu Espoo, [https://www.radissonhotels.com/en-us/hotels/radisson-blu-espoo](https://www.radissonhotels.com/en-us/hotels/radisson-blu-espoo)
 * Töölö Towers, [https://unihome.fi/en/properties/toolo-towers](https://unihome.fi/en/properties/toolo-towers)
 
 **Transportation**
