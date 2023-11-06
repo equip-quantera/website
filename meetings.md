@@ -3,19 +3,24 @@
 ## Meetings
 
 ### Aalto University, 23 and 24 November 2023
+Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjYH7NA6)
 
 **Location**: Aalto University, Otaniemi Campus
 
 * Thu 23.11.2023  location: R001/K101 H1
     - 09:00 - 12:45 Meeting
+    - 11:00 - 11:30 Coffee Break
+    - 11:30 - 13:00 Meeting
     - 13:00 - 14:00 Lunch
-    - 14:15 - 17:00 Meeting
+    - 14:00 - 17:00 Meeting
     - 18:30 dinner at Fat Lizard Otaniemi
 
 * Fri 24.11.2023  location: R001/Y225a Riihi
     - 09:00 - 12:45 Meeting
+    - 11:00 - 11:30 Coffee Break
+    - 11:30 - 13:00 Meeting
     - 13:00 - 14:00 Lunch
-    - 14:15 - 16:00 Meeting
+    - 14:00 - 16:00 Meeting
 
 
 * Meeting point on both days, Otakaari 1 lobby
