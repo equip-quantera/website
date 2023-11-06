@@ -10,6 +10,7 @@
     - 09:00 - 12:45 Meeting
     - 13:00 - 14:00 Lunch
     - 14:15 - 17:00 Meeting
+    - 18:30 dinner at Fat Lizard Otaniemi
 
 * Fri 24.11.2023  location: R001/Y225a Riihi
     - 09:00 - 12:45 Meeting
