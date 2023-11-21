@@ -7,20 +7,32 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
 
 **Location**: Aalto University, Otaniemi Campus
 
-* Thu 23.11.2023  location: R001/K101 H1
-    - 09:00 - 12:45 Meeting
+* Thu 23.11.2023  location: R001/K101 H1 https://aalto.zoom.us/j/66893150423
+    - 09:30 - 11:00 Meeting
+        * Updates, Deliverables
+        * Project Planning
     - 11:00 - 11:30 Coffee Break
     - 11:30 - 13:00 Meeting
+        * DLR - Applications of Quantum Computing within the German Aerospace Center (DLR)
+        * CEA - Layered decoding of Quantum LDPC Codes
     - 13:00 - 14:00 Lunch
-    - 14:00 - 17:00 Meeting
-    - 18:30 dinner at Fat Lizard Otaniemi
+    - 14:00 - 16:00
+        * Arizona/Valencia (online) - TBA
+        * Open Research Problems / Arizona (online) - TBA
+    - 18:00 dinner at Fat Lizard Otaniemi
 
-* Fri 24.11.2023  location: R001/Y225a Riihi
-    - 09:00 - 12:45 Meeting
+* Fri 24.11.2023  location: R030/A106 https://aalto.zoom.us/j/68735485139
+    - 09:30 - 11:00 Meeting
+        * Aalto - Graph Neural Network Decoders
+        * Aalto - Compilation of Flag qubit circuits
     - 11:00 - 11:30 Coffee Break
     - 11:30 - 13:00 Meeting
+        * Madrid (online) - Low-Complexity Linear Programming Based Decoding of Quantum LDPC codes
+        * Grenoble (online) - TBA
     - 13:00 - 14:00 Lunch
     - 14:00 - 16:00 Meeting
+        * Arizona/Valencia (online) - Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays
+        * Project Planning / Open Problems
 
 
 * Meeting point on both days, Otakaari 1 lobby
