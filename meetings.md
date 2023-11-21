@@ -7,7 +7,7 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
 
 **Location**: Aalto University, Otaniemi Campus
 
-* Thu 23.11.2023  location: R001/K101 H1 https://aalto.zoom.us/j/66893150423
+* Thu 23.11.2023  location: R001/K101 H1 [https://aalto.zoom.us/j/66893150423](https://aalto.zoom.us/j/66893150423)
     - 09:30 - 11:00 Meeting
         * Updates, Deliverables
         * Project Planning
@@ -21,7 +21,7 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
         * Open Research Problems / Arizona (online) - TBA
     - 18:00 dinner at Fat Lizard Otaniemi
 
-* Fri 24.11.2023  location: R030/A106 https://aalto.zoom.us/j/68735485139
+* Fri 24.11.2023  location: R030/A106 [https://aalto.zoom.us/j/68735485139](https://aalto.zoom.us/j/68735485139)
     - 09:30 - 11:00 Meeting
         * Aalto - Graph Neural Network Decoders
         * Aalto - Compilation of Flag qubit circuits
