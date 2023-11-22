@@ -17,8 +17,8 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
         * CEA - Layered decoding of Quantum LDPC Codes
     - 13:00 - 14:00 Lunch
     - 14:00 - 16:00
-        * Arizona/Valencia (online) - TBA
-        * Open Research Problems / Arizona (online) - TBA
+        * Valencia (online) - Evaluation Framework for Quantum Error Mitigation and Error-Aware Compilation Techniques
+        * Open Research Problems
     - 18:00 dinner at Fat Lizard Otaniemi
 
 * Fri 24.11.2023  location: R030/A106 [https://aalto.zoom.us/j/68735485139](https://aalto.zoom.us/j/68735485139)
@@ -28,10 +28,10 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
     - 11:00 - 11:30 Coffee Break
     - 11:30 - 13:00 Meeting
         * Madrid (online) - Low-Complexity Linear Programming Based Decoding of Quantum LDPC codes
-        * Grenoble (online) - TBA
+        * DLR - Optimal Single-Shot Decoding of Quantum Codes
     - 13:00 - 14:00 Lunch
     - 14:00 - 16:00 Meeting
-        * Arizona/Valencia (online) - Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays
+        * Arizona (online/optional) - Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays
         * Project Planning / Open Problems
 
 
