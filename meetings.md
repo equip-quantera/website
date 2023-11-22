@@ -13,7 +13,7 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
         * Project Planning
     - 11:00 - 11:30 Coffee Break
     - 11:30 - 13:00 Meeting
-        * DLR - Applications of Quantum Computing within the German Aerospace Center (DLR)
+        * DLR - Optimal Single-Shot Decoding of Quantum Codes
         * CEA - Layered decoding of Quantum LDPC Codes
     - 13:00 - 14:00 Lunch
     - 14:00 - 16:00
@@ -28,7 +28,7 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
     - 11:00 - 11:30 Coffee Break
     - 11:30 - 13:00 Meeting
         * Madrid (online) - Low-Complexity Linear Programming Based Decoding of Quantum LDPC codes
-        * DLR - Optimal Single-Shot Decoding of Quantum Codes
+        * DLR - Applications of Quantum Computing within the German Aerospace Center (DLR)
     - 13:00 - 14:00 Lunch
     - 14:00 - 16:00 Meeting
         * Arizona (online/optional) - Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays
