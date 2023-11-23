@@ -1,3 +1,13 @@
 # EQUIP: Error Correction for Quantum Information Processing
 
 ## Publications
+
+1. Goswami A, Mhalla M, Savin V. Fault-tolerant preparation of quantum polar codes encoding one logical qubit. Physical Review A. 2023 Oct 11;108(4):042605. https://arxiv.org/abs/2209.06673
+2. Goswami A, Mhalla M, Savin V. Factory-based Fault-tolerant Preparation of Quantum Polar Codes Encoding One logical Qubit. arXiv preprint arXiv:2307.15226. 2023 Jul 27. https://arxiv.org/abs/2307.15226
+3. Ostrev D, Orsucci D, Lázaro F, Matuz B. Classical product code constructions for quantum Calderbank-Shor-Steane codes. arXiv preprint arXiv:2209.13474. 2022 Sep 27. https://arxiv.org/abs/2209.13474
+4. Raveendran N, Valls J, Pradhan AK, Rengaswamy N, Garcia-Herrero F, Vasić B. Soft syndrome iterative decoding of quantum LDPC codes and hardware architectures. EPJ Quantum Technology. 2023 Dec 1;10(1):45. https://link.springer.com/content/pdf/10.1140/epjqt/s40507-023-00201-1.pdf
+5. Crest JD, Garcia-Herrero F, Mhalla M, Savin V, Valls J. Check-Agnosia based Post-Processor for Message-Passing Decoding of Quantum LDPC Codes. arXiv preprint arXiv:2310.15000. 2023 Oct 23. https://arxiv.org/abs/2310.15000
+6. Bandic M, Almudever CG, Feld S. Interaction graph-based characterization of quantum benchmarks for improving quantum circuit mapping techniques. Quantum Machine Intelligence. 2023 Dec;5(2):40. https://link.springer.com/article/10.1007/s42484-023-00124-1
+7. Bhatnagar D, Steinberg M, Elkouss D, Almudever CG, Feld S. Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes. arXiv preprint arXiv:2305.00784. 2023 May 1.
+8. Du Crest J, Garcia-Herrero F, Mhalla M, Savin V, Valls J. Layered decoding of quantum LDPC codes. In2023 12th International Symposium on Topics in Coding (ISTC) 2023 Sep 4 (pp. 1-5). IEEE. https://arxiv.org/abs/2308.13377
+9. Du Crest J, Mhalla M, Savin V. Stabilizer inactivation for message-passing decoding of quantum ldpc codes. In2022 IEEE Information Theory Workshop (ITW) 2022 Nov 1 (pp. 488-493). IEEE. https://arxiv.org/abs/2205.06125
