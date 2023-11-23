@@ -7,7 +7,7 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
 
 **Location**: Aalto University, Otaniemi Campus
 
-* Thu 23.11.2023  location: R001/K101 H1 [https://aalto.zoom.us/j/66893150423](https://aalto.zoom.us/j/66893150423)
+* Thu 23.11.2023  location: R001/K101 H1
     - 09:30 - 11:00 Meeting
         * Updates, Deliverables
         * Project Planning
@@ -35,9 +35,9 @@ Register at [https://forms.gle/AzugMYtigYjYH7NA6](https://forms.gle/AzugMYtigYjY
         * Project Planning / Open Problems
 
 
-* Meeting point on both days, Otakaari 1 lobby
+* Meeting point on 24.11, Konemiehentie 2 lobby
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d1983.6696409126566!2d24.8283084!3d60.1862002!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x468df5ece31ea227%3A0x22f11a927c12b1c7!2sOtakaari%201%2002150%20Espoo!3m2!1d60.186200199999995!2d24.828308399999997!5e0!3m2!1sen!2sfi!4v1698246973466!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.6238648268925!2d24.818798177853886!3d60.186957842078186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df5eb41eb7e39%3A0x4d77eb95e5ea8ddf!2sTietotekniikka-talo%2C%20Konemiehentie%202%2C%2002150%20Espoo!5e0!3m2!1sen!2sfi!4v1700751675015!5m2!1sen!2sfi" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Recommended Hotels**: 
 * Aalto Inn, [https://unihome.fi/en/properties/aalto-inn](https://unihome.fi/en/properties/aalto-inn)
