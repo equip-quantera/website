@@ -1,4 +1,8 @@
+<!-- The logos of the institutions must appear on the homepage, positioned immediately after the QuantERA logo and at the very top of the page.  -->
+
 ![quanters](quantera_logo_b_small.png)
+![logos](equip_logos.png)
+
  
 # EQUIP: Error Correction for Quantum Information Processing
 
@@ -8,8 +12,6 @@ The last years have seen significant advances in the field of quantum technologi
 1. providing radically new solutions to fault tolerant quantum computation, covering both intermediate and large-scale quantum systems, and
 2. bridging the critical gap between algorithmic solutions and latency-power-scalability constrained hardware designs.
 To achieve these goals, the project brings together interdisciplinary expertise, extending from the computer science foundations of quantum error correction and fault-tolerant computation, to algorithmic aspects, computer architectures, and hardware designs.
-
-![logos](equip_logos.png)
 
 
 ## Main Contributions
