@@ -4,7 +4,7 @@
 <!-- The logos of the institutions must appear on the homepage, positioned immediately after the QuantERA logo and at the very top of the page.  -->
 ![logos](equip_logos.png)
 <!-- Directly below these, the logos of the national funding agencies should also be included. I have attached the logos of the Spanish funding agencies that are required. This will be the same requirement for Carmen, so once the website is updated, I can inform her as well. -->
-![logos](logo_funding_spain.png)
+![logos](logo_funding_spain.jpg)
  
 # EQUIP: Error Correction for Quantum Information Processing
 
